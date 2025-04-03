@@ -1,3 +1,7 @@
+
+![Screenshot_20250403_070609](https://github.com/user-attachments/assets/15da6b18-ca5b-4273-a9b9-4f07e926f263)
+![Screenshot from 2025-03-29 16-26-19](https://github.com/user-attachments/assets/ed96c4b4-8783-4416-a60c-f2a6e72a6024)
+
 This is a simple design for a xt30 based power distribution block. 
 
 It is sized to fit under the seat of a Husqvarna 701 enduro but is also handy in some other situations, like mini-lab. 
